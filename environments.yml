@@ -1,0 +1,18 @@
+name: fine-tunning-debertav3-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - scikit-learn
+  - pandas
+  - numpy
+  - pytest
+  - ipython
+  - jupyter
+  - jupyterlab
+  - pillow
+  - yaml
+  - pytorch
+  - transformers
+  - tokenizers
